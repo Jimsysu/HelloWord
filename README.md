@@ -9,7 +9,7 @@ Step 2. Create a Branch 建立一个分支
   Branch 多人协同工作，merge到主分支Master,也可以从Master复制下来， 提交的时候Merge,  pull更新
   案例: 在Master下面建立一个Readme 分支
   
-  Step 3. Make and commit changes 
+Step 3. Make and commit changes 
   Click the README.md file.  
   点击README.md文件
   Click the  pencil icon in the upper right corner of the file view to edit.  
@@ -19,7 +19,17 @@ Step 2. Create a Branch 建立一个分支
    Write a commit message that describes your changes.
    Click Commit changes button.
    
-   Step 4. Open a Pull Request
+ Step 4. Open a Pull Request
    pull请求，在一个分支需要merge到Master, 先提出PULL请求，就会显示版本的不一样的地方，和之前不一样的，更改的地方红色和绿色标注。
    commit提交之前 先pull 最后才merge
    
+
+Step 5. Merge your Pull Request
+   pull以后，对更改的没异议了，可以Merge提交PULL到Master
+   
+   
+   总结：使用包括五个步骤
+   Created an open source repository
+   Started and managed a new branch
+   Changed a file and committed those changes to GitHub
+   Opened and merged a Pull Request
